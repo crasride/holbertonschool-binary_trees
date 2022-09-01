@@ -643,7 +643,7 @@ holbertonschool-binary_trees$
 Repo:
 
 - GitHub repository: `holbertonschool-binary_trees`
-- File: [`9-binary_tree_height.c`]()
+- File: [`9-binary_tree_height.c`](https://github.com/crasride/holbertonschool-binary_trees/blob/main/9-binary_tree_height.c)
 
 ### 10. Depth
 
