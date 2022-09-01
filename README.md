@@ -6,7 +6,7 @@
 - [Data Structure and Algorithms - Tree](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
 - [Tree Traversal](https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm)
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
-- [Data structures: Binary Tree](alendar.google.com/calendar/u/0/r/week?eid=NzQ0ZHNvdmgxazR0OTJzbXRhMXM2MWR1YTAgNDMzM0Bob2xiZXJ0b25zY2hvb2wuY29t&ctok=NDMzM0Bob2xiZXJ0b25zY2hvb2wuY29t&pli=1)
+- [Data structures: Binary Tree](https://www.youtube.com/watch?v=H5JubkIy_p8&themeRefresh=1)
 
 ## General
 
